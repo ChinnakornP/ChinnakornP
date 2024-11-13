@@ -1,6 +1,1 @@
-
-- 🌱 I’m currently learning Lua and Blockchain
-
-- 📫 How to reach me:
-
-🗒️ Updates and Notes
+Hi, I'm a hobbyist game dev, currently focusing on rust programming and bevy engine in my spare time.
